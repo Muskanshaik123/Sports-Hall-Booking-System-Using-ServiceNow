@@ -374,7 +374,7 @@ displayAmount.textContent = '€' + price.toFixed(2);
 ## 🌐 Demo
 
 ### Live Demo
-🔗 **[View Demo](https://your-demo-link.com)** *
+🔗 **[View Demo](https://drive.google.com/file/d/1T5cwKM_-3otv4t0_Pbn7RDlfSrzqbJFK/view)** 
 
 
 ### Demo Features
